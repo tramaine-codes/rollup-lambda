@@ -1,0 +1,10 @@
+/.chemist
+/coverage
+/dist
+/.husky
+/lib
+/node_modules
+/.serverless
+/tmp
+
+package-lock.json
